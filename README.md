@@ -36,7 +36,7 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 
 El modelo Windkessel de cuatro elementos representa, de manera simplificada, la dinámica del sistema arterial mediante un circuito eléctrico equivalente. Su formulación original se atribuye a Otto Frank, quien propuso representar el sistema arterial mediante una sección distensible y una resistencia periférica concentrada (modelo de dos elementos). Posteriormente se incorporó una impedancia característica asociada con la región proximal del lecho vascular y, finalmente, una inertancia que representa los efectos de la masa de la sangre en movimiento.
 
-Palabras clave: Modelo Windkessel; Sistema cardiovascular; Circuito RLC; Controlador PID; Modelo matemático; Simulaciones numéricas.
+Palabras clave: Modelo Windkessel; Sistema cardiovascular; Circuito RLC; Controlador PID; Modelo matemático; Normotenso; Hipotenso; Hipertenso; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx] y [.pdf].
