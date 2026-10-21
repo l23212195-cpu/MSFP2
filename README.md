@@ -39,21 +39,14 @@ El modelo Windkessel de cuatro elementos representa, de manera simplificada, la 
 Palabras clave: Modelo Windkessel; Sistema cardiovascular; Circuito RLC; Controlador PID; Modelo matemático; Simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
-1. Desarrollo matemático del modelo Windkessel, ecuaciones de estado y funciones de transferencia (este README).
-2. Tabla de parámetros de los modelos hipotenso, normotenso e hipertenso.
-3. Cuaderno computacional de MATLAB [.mlx y .pdf].
-4. Modelos de Simulink [.slx] (ecuaciones de estado, función de transferencia y lazo cerrado con PID).
-5. Modelo del circuito en Simscape Electrical [.slx].
+1. Cuaderno computacional de MATLAB [.mlx] y [.pdf].
+2. Modelo de Simulink [.slx].
+3. Imagen con los parámetros del controlador.
+4. Imágenes de las simulaciones en Matlab (4 en total) [.pdf].
+5. Imágenes de las simulaciones en Python (3 en total) [.pdf].
 6. Archivo de Python [.py].
-7. Señal de entrada utilizada en las simulaciones.
-8. Imagen con los parámetros y la configuración de la sintonización de los controladores.
-9. Figuras de las simulaciones en MATLAB y Python [.pdf].
-10. Resultados de los sistemas en lazo abierto y en lazo cerrado.
-11. Ganancias obtenidas para los dos controladores PID.
-12. Diagrama biológico (BioRender).
-13. Capturas de las simulaciones.
-14. Archivos complementarios utilizados durante la práctica.
-15. Archivo CITATION.cff con la información de la estudiante y del repositorio.
+7. Archivo signal con 15,000 datos [.xlsx].
+8. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
 
 ## Referencias
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2026. Permalink: https://biomath.xyz/course/
