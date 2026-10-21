@@ -41,12 +41,13 @@ Palabras clave: Modelo Windkessel; Sistema cardiovascular; Circuito RLC; Control
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx] y [.pdf].
 2. Modelo de Simulink [.slx].
-3. Imagen con los parámetros del controlador.
-4. Imágenes de las simulaciones en Matlab (4 en total) [.pdf].
-5. Imágenes de las simulaciones en Python (3 en total) [.pdf].
-6. Archivo de Python [.py].
-7. Archivo signal con 15,000 datos [.xlsx].
-8. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario.
+3. Archivo de Python [.py].
+4. Archivo signal con 15,000 datos [.xlsx].
+5. Imagen con los parámetros de ambos controladores, hipotenso e hipertenso respectivamente [.pdf].
+6. Imágenes de las simulaciones en Matlab (4 en total) [.pdf].
+7. Imágenes de las simulaciones en Python (3 en total) [.pdf].
+8. Diagrama de Biorender [.png].
+9. Análisis matemático: Función de transferencia, modelo de ecuaciones integro-diferenciales, estabilidad y error en estado estacionario [.pdf].
 
 ## Referencias
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2026. Permalink: https://biomath.xyz/course/
