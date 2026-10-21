@@ -21,6 +21,9 @@ keywords:
   - Circuito RLC
   - Controlador PID
   - Modelo matemático
+  - Normotenso
+  - Hipotenso
+  - Hipertenso
   - Simulaciones numéricas
 license: BSD-2-Clause
 version: '1.0'
