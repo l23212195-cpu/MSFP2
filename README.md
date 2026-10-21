@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrPaulValle/NOMBRE_DEL_REPOSITORIO)
 
-# Práctica 5.4: Modelado y control del sistema cardiovascular mediante el modelo Windkessel
+# Práctica 2: Modelado y control del sistema cardiovascular mediante el modelo Windkessel
 
 ## Información de la estudiante
 Garcia Grijalva Armando [23212195]; L23212195@tijuana.tecnm.mx
